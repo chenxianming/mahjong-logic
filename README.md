@@ -11,8 +11,8 @@ let table = new Table();
 
 ```
 let step = table.newRound(),
-	cards = table.getCards(),
-	lifeCount = table.getLifeCount();
+    cards = table.getCards(),
+    lifeCount = table.getLifeCount();
     
 ```
 
